@@ -1,0 +1,20 @@
+{
+  "name": "games",
+  "version": "1.0.0",
+  "description": "Simulation a basketball tournament at the Olympic Games",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinevue/Games.git"
+  },
+  "author": "shine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shinevue/Games/issues"
+  },
+  "homepage": "https://github.com/shinevue/Games#readme"
+}
